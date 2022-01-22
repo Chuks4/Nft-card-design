@@ -1,0 +1,89 @@
+/* Creating the background design*/
+.main {
+  background-color: hsl(217, 54%, 11%);
+  width: 1440px;
+  height: 750px;
+}
+/* Creating the design for the nft- design*/
+.nft-page {
+  height: 550px;
+  width: 300px;
+  background-color: hsl(216, 50%, 16%);
+  position: relative;
+  top: 100px;
+  margin-left: 550px;
+  border-radius: 12px;
+  box-shadow: 10px 15px 48px hsl(208, 42%, 9%);
+}
+/*Designing the image inside the nft-page*/
+.image {
+  width: 250px;
+  height: 280px;
+  border-radius: 5px;
+  margin: 24px;
+}
+
+/*Designing the first text tag */
+.text {
+  font-size: 18px;
+  color: hsl(0, 0%, 100%);
+  margin-top: 10px;
+  padding-left: 25px;
+  font-family: "Outfit", sans-serif;
+}
+
+/*Designing the second text tag */
+.second {
+  font-size: 15px;
+  color: hsl(215, 51%, 70%);
+  margin: 17px;
+  padding-left: 10px;
+  font-family: "Outfit", sans-serif;
+}
+/*Designing the digit */
+.digits {
+  color: hsl(178, 100%, 50%);
+  font-size: 15px;
+  margin: 20px;
+  padding-left: 10px;
+  font-family: "Outfit", sans-serif;
+}
+/*Designing the clock */
+.clock {
+  font-size: 15px;
+  color: hsl(215, 51%, 70%);
+  padding-left: 180px;
+  margin-top: -40px;
+  font-family: "Outfit", sans-serif;
+}
+
+/*Designing the underline */
+.line {
+  border-bottom: 1px solid;
+  color: hsl(215, 32%, 27%);
+  margin: 25px;
+}
+
+/*Designing the buttom image */
+.avatar {
+  width: 30px;
+  height: 30px;
+  margin-top: -6px;
+  margin-left: 20px;
+  border-radius: 50%;
+  border: 2px solid hsl(0, 0%, 100%);
+}
+
+/*Designing the author name */
+.creation {
+  font-size: 15px;
+  color: hsl(215, 51%, 70%);
+  padding-left: 65px;
+  font-family: "Outfit", sans-serif;
+  margin-top: -30px;
+}
+
+/*Designing the author name */
+.name {
+  color: hsl(0, 0%, 100%);
+}
